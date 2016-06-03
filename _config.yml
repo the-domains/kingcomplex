@@ -1,0 +1,28 @@
+name: kingcomplex
+favicon: null
+layout_spectrum: 0.5221860886085778
+typography_spectrum: 0.014587739948183298
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.15453346562571824
+  lightness: 0.10342210880480707
+  saturation: 0.5034211936872452
+  rhythmicContrast: 0.6544322313275188
+purpose: []
