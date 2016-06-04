@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[King Complex]]></title>
+        <description><![CDATA[King Complex]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 04 Jun 2016 14:50:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[King Complex - "Made In America" [OFFICIAL MUSIC VIDEO]]]></title>
+            <description><![CDATA[<article><h1>King Complex - "Made In America" [OFFICIAL MUSIC VIDEO]</h1><p>Directed by Robin Cowie (Blair Witch Project) Editor: Fern Suarez Arguelles Album: King Complex Label: Noble Steed Music Song Composer: B. Brown Song Producer: B. Brown, C.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/67c10dea213bdecf40ebf96bfe27b235a82b6c43.jpg"></article>]]></description>
+            <link>https://youtu.be/SDgQwj4Nxuk</link>
+            <guid isPermaLink="false">98490a14-3bc0-4308-bc89-f26e9a4e010e</guid>
+            <pubDate>Sat, 04 Jun 2016 14:50:25 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
