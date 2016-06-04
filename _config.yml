@@ -1,20 +1,4 @@
-name: kingcomplex
-favicon: null
-layout_spectrum: 0.5221860886085778
 typography_spectrum: 0.014587739948183298
-title: King Complex
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -26,4 +10,20 @@ color:
   lightness: 0.10342210880480707
   saturation: 0.5034211936872452
   rhythmicContrast: 0.6544322313275188
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5221860886085778
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: kingcomplex
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: King Complex
 purpose: []
