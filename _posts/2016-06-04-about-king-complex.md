@@ -18,12 +18,12 @@ description: >-
   process allowed for a vast amount of experimentation within every aspect of
   the production. Static covered vocals, dirty bass grooves, and distorted drums
   fill the tracks with an edge often missing from rock music today.  
-dateModified: '2016-06-07T14:53:44.768Z'
-datePublished: '2016-06-07T14:53:44.845Z'
+dateModified: '2016-06-07T15:20:02.411Z'
+datePublished: '2016-06-07T15:20:02.751Z'
 title: ABOUT KING COMPLEX
 author: []
 sourcePath: _posts/2016-06-04-about-king-complex.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
