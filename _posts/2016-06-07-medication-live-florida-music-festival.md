@@ -64,10 +64,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/BZOEhRCGHSw'
 title: '''Medication'' Live @ Florida Music Festival'
-datePublished: '2016-06-07T15:20:24.187Z'
-dateModified: '2016-06-07T15:20:23.707Z'
+datePublished: '2016-06-08T16:23:08.703Z'
+dateModified: '2016-06-08T16:23:08.051Z'
 sourcePath: _posts/2016-06-07-medication-live-florida-music-festival.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
