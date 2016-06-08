@@ -17,10 +17,10 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://youtu.be/SDgQwj4Nxuk'
 title: 'King Complex - "Made In America" [OFFICIAL MUSIC VIDEO]'
-datePublished: '2016-06-08T16:30:24.724Z'
-dateModified: '2016-06-08T16:30:24.357Z'
+datePublished: '2016-06-08T16:30:38.745Z'
+dateModified: '2016-06-08T16:30:38.420Z'
 sourcePath: _posts/2016-06-04-king-complex-made-in-america-official-music-video.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
