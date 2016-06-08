@@ -31,10 +31,10 @@ app_links: []
 isBasedOnUrl: >-
   https://fieldhouse-music.com/2016/05/02/a-big-welcome-to-fieldhouses-newest-band-king-complex/
 title: 'A Big Welcome to Fieldhouse''s Newest Band, King Complex'
-datePublished: '2016-06-08T16:23:01.380Z'
-dateModified: '2016-06-08T16:23:00.920Z'
+datePublished: '2016-06-08T16:30:28.431Z'
+dateModified: '2016-06-08T16:30:28.161Z'
 sourcePath: _posts/2016-06-07-a-big-welcome-to-fieldhouses-newest-band-king-complex.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
