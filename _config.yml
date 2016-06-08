@@ -19,11 +19,12 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/506b8327-30a5-4894-a95d-ef478be4e29a.jpg'
 name: kingcomplex
 cta:
   domain: null
   bucket: null
   version: null
-favicon: null
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/cbf82a3c-7834-4fcc-a61c-4ae0248675c0.jpg'
 title: King Complex
 purpose: []
